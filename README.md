@@ -1,4 +1,6 @@
 # Intel Hardware Accelerated Execution Manager (HAXM)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fhaxm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fhaxm?ref=badge_shield)
+
 [HAXM][intel-haxm] is a hardware-assisted virtualization engine (hypervisor)
 that uses [Intel Virtualization Technology][intel-vt] to speed up IA (x86/
 x86\_64) emulation on a host machine running Windows or macOS.
@@ -69,3 +71,7 @@ sensitive information.
 [wdk10]: https://developer.microsoft.com/en-us/windows/hardware/windows-driver-kit
 [osx-sdks]: https://github.com/phracker/MacOSX-SDKs
 [intel-security-email]: mailto:secure@intel.com
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fhaxm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fhaxm?ref=badge_large)
